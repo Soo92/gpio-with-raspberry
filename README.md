@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # gpio-with-raspberry
 =======
 # opencv-with-raspberry
